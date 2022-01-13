@@ -1,5 +1,5 @@
 {
-  "name": "react-electron-typescript",
+  "name": "react-electron-typescript-express",
   "version": "0.1.0",
   "private": true,
   "main": "public/electron.js",
